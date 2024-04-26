@@ -263,7 +263,7 @@
 |    | 내용      | ch_content   | String        | varchar   |        | N         |        | 100자 이하 |
 |    | 작성시간  | ch_createdAt | LocalDateTime | timestamp |        |           |        |            |
 
-## Batting
+## Betting
 
 | 키 | 논리      | 물리      | 엔티티        | 타입      | UNIQUE | Null 허용 | 기본값 | 코멘트               |
 | -- | --------- | --------- | ------------- | --------- | ------ | --------- | ------ | -------------------- |
